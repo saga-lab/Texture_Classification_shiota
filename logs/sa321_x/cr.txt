@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+  ArtLeather     0.6000    1.0000    0.7500         3
+   GreenTile     1.0000    0.9474    0.9730        19
+    ArtGrass     1.0000    1.0000    1.0000        15
+   CorkSheet     1.0000    1.0000    1.0000        10
+   EnbiPunch     0.6667    0.4615    0.5455        13
+  Luncheon01     0.5455    0.8571    0.6667         7
+  Luncheon02     1.0000    1.0000    1.0000         2
+  Luncheon03     0.6364    1.0000    0.7778         7
+    Carpet01     1.0000    0.7727    0.8718        22
+
+    accuracy                         0.8571        98
+   macro avg     0.8276    0.8932    0.8427        98
+weighted avg     0.8851    0.8571    0.8583        98
